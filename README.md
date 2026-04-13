@@ -53,7 +53,7 @@ benchmark_file = r"Benchmark\930929perf.xlsx"
 
 ### 2. 运行策略
 ```bash
-python risk_parity.py
+python MARP.py
 ```
 
 ### 3. 核心参数（可自定义）
