@@ -88,6 +88,10 @@ s.t. Σw=1, w≥0
 - 粉色填充：超额收益
 - 红色三角：调仓日期
 
+<div align="center">
+  <img src=https://github.com/Ron-Wang/MARP/tree/main/Output/MARP_performance.png width=400dp>
+</div>
+
 ### 2. 资产权重变化
 展示每只基金在组合中的**动态权重**，清晰反映风险平价调仓逻辑。
 
