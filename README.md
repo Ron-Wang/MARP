@@ -95,6 +95,10 @@ s.t. Σw=1, w≥0
 ### 2. 资产权重变化
 展示每只基金在组合中的**动态权重**，清晰反映风险平价调仓逻辑。
 
+<div align="center">
+  <img src=https://github.com/Ron-Wang/MARP/blob/main/Output/MARP_weights.png width=800dp>
+</div>
+
 ### 3. 绩效指标表
 | 指标 | 说明 |
 |------|------|
